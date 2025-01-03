@@ -10,6 +10,8 @@ Welcome to the **Quiz App**! This is a simple interactive quiz application where
 - **Instant Feedback**: After selecting an answer, the app instantly shows whether the answer was correct or incorrect.
 - **Score Calculation**: At the end of the quiz, your score will be displayed.
 - **Next Question Button**: After each question, you can click **"Next"** to proceed to the next question.
+- **Timer**: Timer for each question is setted.
+- **Restart Quiz**: User can restart quiz again after completing once and viewing score.
 
 ---
 
@@ -22,13 +24,14 @@ Welcome to the **Quiz App**! This is a simple interactive quiz application where
 ---
 
 ## Demo
+**Updated**
 
+![image](https://github.com/user-attachments/assets/8ab436c8-8f91-4da6-86fe-e7d94b76fc6c)
+![image](https://github.com/user-attachments/assets/e805c1f0-1134-484c-9a10-065080377faf)
+![image](https://github.com/user-attachments/assets/b291b021-5a2f-46cd-8835-5f3e678325ba)
+![image](https://github.com/user-attachments/assets/ba1ce6b3-3248-42e9-a89d-c3e0142d980c)
 ![image](https://github.com/user-attachments/assets/c81ad8d7-f907-4492-aaf3-51604c51336c)
 ![image](https://github.com/user-attachments/assets/1bbfb7a6-b289-4441-8dd9-a646bf70adf3)
-![image](https://github.com/user-attachments/assets/80b4dd10-b9be-4560-9106-15f80e0c0378)
-![image](https://github.com/user-attachments/assets/f7e06a89-0480-4b1b-a27a-08ac7f45878f)
-
-
 
 ---
 
@@ -69,7 +72,7 @@ Welcome to the **Quiz App**! This is a simple interactive quiz application where
 ## Future Improvements
 - **Question Randomization**: Display questions in random order to make the quiz more dynamic.
 - **User Authentication**: Allow users to log in and save their quiz history and scores.
-- **Timer**: Add a countdown timer for each question.
+- **Timer**: Add a countdown timer for each question. (Added)
 - **More Questions**: Expand the question set to include more topics and categories.
 
 ## Contributing
@@ -81,4 +84,6 @@ This project is open-source and available under the MIT License.
 ## Contact
 For any questions or feedback, feel free to reach out:
 
+- **LinkedIn**: https://linkedin.com/in/iazimshaikh
+- **LinkedIn**: https://linkedin.com/in/meetthakkar10
 - **Email**: itsshaikhhere@gmail.com
